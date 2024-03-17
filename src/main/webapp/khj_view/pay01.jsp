@@ -66,7 +66,7 @@
 			<h3>결제 수단</h3>
 			<a><input type="radio" name="point" value="point">포인트</a>
 			<a><input type="radio" name="credit_card" value="credit_card">신용카드</a>
-			<a><input type="radio" name="account_transfer" value=""account_transfer"">계좌이체</a>
+			<a><input type="radio" name="account_transfer" value="account_transfer">계좌이체</a>
 		</article>
 		<article id="p1_s2_a3">
 		
