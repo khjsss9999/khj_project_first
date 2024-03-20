@@ -66,13 +66,17 @@
 			<div class="m_type">type</div>
 			<div class="m_content">content</div>
 		</div>
-		<div>
-		
+		<div id="sel_faq_page">
+			<button class="entity">&lt;</button>
+			<button class="page_num">1</button>
+			<button class="page_num">2</button>
+			<button class="page_num">3</button>
+			<button class="entity">&gt;</button>
 		</div>
 	</article>
 	<article id="footer">
 		<div>
-		
+			<p>푸터 ~~~ 여러가지 사항들이 적혀 있습니다. </p>
 		</div>
 	</article>
 </section>

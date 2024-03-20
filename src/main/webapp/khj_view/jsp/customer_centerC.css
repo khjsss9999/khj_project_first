@@ -37,3 +37,12 @@ display: flex; align-items: center; justify-content: center;
 font-size: 25px;
 }
 .m_content:hover{background-color: orange;}
+#sel_faq_page{width: 100%; height: 60px;  
+display: flex; justify-content: center; align-items: center; border: 1px solid black;
+
+}
+#sel_faq_page > .entity{width: 40px; height: 40px; }
+#sel_faq_page > .page_num{width: 40px; height: 40px; background-color: #e5e5e5; text-align: center; }
+#sel_faq_page > .page_num:hover{background-color: orange;}
+#footer{width: 100%; height: 140px; background-color: white;}
+#footer > div{display: flex; justify-content: center; line-height: 50px;}
